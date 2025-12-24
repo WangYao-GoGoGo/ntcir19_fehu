@@ -210,6 +210,7 @@ python evaluation.py \
   --pred_task2a dataset/evaluation_test_data_examples/pred/task2/pred_task2a.json \
   --pred_task2b dataset/evaluation_test_data_examples/pred/task2/pred_task2b.json
 # ntcir19_fehu
+```
 
 ### Contact Information:
 - **Yao Wang: oh.gyou.tkb_gf@u.tsukuba.ac.jp**
