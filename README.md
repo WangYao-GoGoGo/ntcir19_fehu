@@ -210,3 +210,12 @@ python evaluation.py \
   --pred_task2a dataset/evaluation_test_data_examples/pred/task2/pred_task2a.json \
   --pred_task2b dataset/evaluation_test_data_examples/pred/task2/pred_task2b.json
 # ntcir19_fehu
+
+### Contact Information:
+- **Yao Wang: oh.gyou.tkb_gf@u.tsukuba.ac.jp**
+- **Zhuochen Liu: s2426082@u.tsukuba.ac.jp**
+- **Jiankang Chen: s2526100@u.tsukuba.ac.jp**
+- **Xin Liu: https://staff.aist.go.jp/xin.liu/**
+- **Kyoungsook Kim: https://staff.aist.go.jp/ks.kim/**
+- **Adam Jatowt:  https://ds-informatik.uibk.ac.at/doku.php?id=contact**
+- ***Haitao Yu: https://ii-research-yu.github.io/**
