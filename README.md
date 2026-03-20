@@ -1,5 +1,7 @@
 # NTCIR-19 FEHU (Fact-based Event-centric Human Value Understanding)
 
+> **Note (March 20, 2026):** In earlier versions, `dataset/gold_labels/dev/dev_human_values.json` and `dataset/gold_labels/train/train_human_values.json` contained actor misalignment caused by a code bug. This issue has been corrected in the current version.
+
 This repository provides the **NTCIR-19 FEHU** benchmark resources and evaluation code for **human value recognition** in **factual news articles** and their **subevents**.
 
 FEHU focuses on identifying **human values expressed by each actor** at:
