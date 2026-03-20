@@ -1,4 +1,4 @@
-**Note (March 20, 2026):** In earlier versions, `dataset/gold_labels/dev/dev_human_values.json` and `dataset/gold_labels/train/train_human_values.json` contained actor misalignment caused by a code bug. This issue has been corrected in the current version.
+**Note (March 20, 2026):** Versions before commit `af52dcb` (as of March 20, 2026) are incorrect: `dataset/gold_labels/dev/dev_human_values.json` and `dataset/gold_labels/train/train_human_values.json` contained actor misalignment caused by a code bug. This has been corrected in the current version.
 
 # NTCIR-19 FEHU (Fact-based Event-centric Human Value Understanding)
 
